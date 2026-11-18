@@ -197,7 +197,7 @@ try:
     print("Duplicados eliminados:", duplicados_eliminados)
 
     # ==========================================
-    # 7. LOAD
+    # 7. LOAD final
     # ==========================================
 
     etapa_actual = "LOAD"
